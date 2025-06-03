@@ -1,6 +1,4 @@
-# Mach-A.github.io
-```yml
-remote_theme: pages-theme/time machine
-plugins:
--jekyll-theme-time machine
+# A first-level heading
+## A second-level heading
+### A third-level heading
 
