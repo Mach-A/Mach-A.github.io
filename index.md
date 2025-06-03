@@ -1,10 +1,10 @@
-title: Data & ML tasks
+# title: Data & ML tasks
 
-description: Hi, Alison Github web
+## description: Hi, Alison Github web
 
 theme: jekyll-theme-time machine
 
-author: Alison
+### author: Alison
 
 email: aoyome@buffalo.edu
 
