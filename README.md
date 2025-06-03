@@ -1,3 +1,6 @@
 # Mach-A.github.io
-_config.yml
-jekyll-theme-time machine 
+```yml
+remote_theme: pages-theme/time machine
+plugins:
+-jekyll-theme-time machine
+
