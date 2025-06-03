@@ -1,8 +1,8 @@
-# title: Data & ML tasks
+title: [Data & ML project tasks]
 
-## description: Hi, Alison Github web
+description: [Hi, This is Alison, my Github projects]
 
-### author: Alison
+projects: [2024 NYC Yellow taxi database]
 
 email: aoyome@buffalo.edu
 
