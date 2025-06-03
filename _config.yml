@@ -3,3 +3,7 @@ description: This is a breakdown of the different repository,for a better unders
 show_downloads: 
 google_analytics:
 theme: jekyll-theme-architect
+
+markdown: kramdown
+kramdown:
+  input: GFM
