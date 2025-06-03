@@ -8,3 +8,10 @@ author: Alison
 
 email: aoyome@buffalo.edu
 
+- Home
+- About Me
+- Projects
+    - Project A
+    - Project B
+
+- Contact
