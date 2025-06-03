@@ -1,17 +1,20 @@
-email: aoyome@buffalo.edu
-
+<h2>Projects</h2>
 
 <details>
   <summary><strong>Main</strong></summary>
+<details>
   <summary><strong>About Me</strong></summary>
     <p>My name is Alison, these are my Github projects, and my project are focus...</p>
+<details>
   <summary><strong>Projects</strong></summary>
     <summary><strong>2024 NYC Yellow Taxi Dataset</strong></summary>
       <summary><strong>Data Analytics and Machine Learning case studiest</strong></summary>
     <summary><strong>Multi Genre Movie Classification</strong></summary>
+  <details>
   <summary><strong>Next Challenges</strong></summary>
+  <details>
   <summary><strong>Howdy</strong></summary>
-  <p>About Me</p>
+  
  
 </details>
 
