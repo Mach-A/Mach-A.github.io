@@ -13,3 +13,9 @@ email: aoyome@buffalo.edu
     - Project B
 
 - Contact
+
+
+<details>
+  <summary><strong>Movie Genre Classifier</strong></summary>
+  <p>Details about this project...</p>
+</details>
