@@ -3,20 +3,27 @@
 <details>
   <summary><strong>Main</strong></summary>
 <details>
+<details>
   <summary><strong>About Me</strong></summary>
     <p>My name is Alison, these are my Github projects, and my projects are focus...</p>
 <details>
+<details>
   <summary><strong>Projects</strong></summary>
+  <details>
   <details>
     <summary><strong>2024 NYC Yellow Taxi Dataset</strong></summary>
       <details>
+        <details>
       <summary><strong>Data Analytics and Machine Learning case studiest</strong></summary>
   <details>
     <summary><strong>Multi Genre Movie Classification</strong></summary>
+  <details>
 <details>
   <summary><strong>Next Challenges</strong></summary>
 <details>
+<details>
   <summary><strong>Howdy</strong></summary>
+<details>
   
 </details>
 
