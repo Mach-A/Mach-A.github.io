@@ -94,6 +94,13 @@
     <p>gcolally@gmail.com</p>
   </details>
 
-Kindly follow Me
-[Follow me on GitHub](https://github.com/Mach-A)
+<p>
+  <a href="https://github.com/Mach-A" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+         alt="GitHub logo" 
+         style="width: 32px; vertical-align: middle; margin-right: 8px;">
+    Follow me on GitHub
+  </a>
+</p>
+
     
