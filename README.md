@@ -1,7 +1,7 @@
 
-## This easily explain some of my projects
+# This easily explain some of my projects
 
-## Projects
+# Projects
 
 
 
