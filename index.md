@@ -58,7 +58,9 @@
 </head>
 <body>
 
-  <h1>...eager to always collaborate within the different exicting fields of AI</h1>
+  <h3>...eager to always collaborate within the different exciting fields of AI</h3>
+  </h3>[Follow me on GitHub](https://github.com/Mach-A)</h3>
+
 
   <details open>
     <summary>Home</summary>
