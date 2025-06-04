@@ -2,7 +2,7 @@ title: Alison's Projects
 description: ...explaining some of my Github Projects
 show_downloads: 
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-tactile
 markdown: kramdown
 kramdown:
   input: GFM
