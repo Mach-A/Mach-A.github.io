@@ -3,3 +3,6 @@ description: ...explaining some of my Github Projects
 show_downloads: 
 google_analytics:
 theme: jekyll-theme-merlot
+markdown: kramdown
+kramdown:
+  input: GFM
