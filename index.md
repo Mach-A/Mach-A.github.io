@@ -59,7 +59,12 @@
 <body>
 
   <h3>...eager to always collaborate within the different exciting fields of AI</h3>
-  </h3>[Follow me on GitHub](https://github.com/Mach-A)</h3>
+  ## Follow Me
+
+<a href="https://github.com/Mach-A" target="_blank">
+  <img src="https://img.shields.io/github/followers/Mach-A?label=Follow&style=social" alt="Follow on GitHub">
+</a>
+ 
 
 
   <details open>
