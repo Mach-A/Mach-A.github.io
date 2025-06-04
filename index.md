@@ -74,6 +74,8 @@
     <summary>Projects</summary>
     <ul>
       <li><strong>2024 NYC Yellow Taxi Database</strong>: A data analytics and ML models case studies addressing insights on the database. <a href="https://github.com/Mach-A/NYC_taxi_dataset_2024dataset">GitHub</a></li>
+      ### Pick-up and Drop-off Zones Chart / rides
+          ![Zones per rides](asset/ride.png)
       <li><strong>Movie Genre Classifier</strong>: An LSTM-based model and a BERT-model to classify genres from movie synopses. <a href="https://github.com/yourusername/movie-genre-classifier">GitHub</a></li>
       <li><strong>PageRank with PySpark</strong>: Custom PageRank implementation for graph data. <a href="https://github.com/yourusername/spark-pagerank">GitHub</a></li>
       <li><strong>Implementing regression models using the classicial MNIST dataset</strong>: The regression models, binary logistic regression and multi-logistic regression models were implemented using no inbuilt functions/external libraries <a href="https://github.com/Mach-A/mlr_blr_svm_using_mnist_dataset">GitHub</a></li>
