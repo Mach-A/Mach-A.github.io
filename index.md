@@ -58,7 +58,7 @@
 </head>
 <body>
 
-  <h1>...focused on augumenting human capabilities</h1>
+  <h1>...eager to contribute to the exicting world of AI</h1>
 
   <details open>
     <summary>Home</summary>
@@ -73,16 +73,20 @@
   <details>
     <summary>Projects</summary>
     <ul>
-      <li><strong>2024 NYC Yellow Taxi Database</strong>: A data analytics and ML models case studies addressing insights on the database. <a href="https://github.com/Mach-A/NYC_taxi_dataset_2024dataset">GitHub</a></li>
+      <li><strong>2024 NYC Yellow Taxi Database</strong>: A data analytics and ML models case studies addressing insights on the database.Over 20 Million NYC rides were within Jan-June 2024. Based off three different ML models, easily I can predict NYC total tax for Yellow taxi, if a driver will receive a tip or not and a passenger payment type.  <a href="https://github.com/Mach-A/NYC_taxi_dataset_2024dataset">GitHub</a></li>
       <img src="asset/ride.png" alt="Zones/ride table" style="max-width: 100%; height: auto;">    
-      <li><strong>Movie Genre Classifier</strong>: An LSTM-based model and a BERT-model to classify genres from movie synopses, trained on 14,000 movies. Achieved an accuracy of 72% <a href="https://github.com/yourusername/movie-genre-classifier">GitHub</a></li>
+      <li><strong>Movie Genre Classifier</strong>: An LSTM-based model and a BERT-model to classify genres from movie synopses, trained on 14,000 movies. While improved LSTM Model(embedded with GloVe words) achieved over 72% acc(this is low), BERT Model(pretrained) achieved an accuracy of 93% <a href="https://github.com/yourusername/movie-genre-classifier">GitHub</a></li>
+      <img src="asset/imp_lstm.png" alt="Improved LSTM Accuracy" style="max-width: 100%; height: auto;"> 
+      <img src="asset/bert_model.png" alt="Bert Model with F1 score and Accuracy" style="max-width: 100%; height: auto;"> 
+      <img src="asset/bert_f1_acc.png" alt="Bert Model with only F1 score<<macro/micro" style="max-width: 100%; height: auto;"> 
       <li><strong>Implementing regression models using the classicial MNIST dataset</strong>: The regression models, binary logistic regression and multi-logistic regression models were implemented using no inbuilt functions/external libraries <a href="https://github.com/Mach-A/mlr_blr_svm_using_mnist_dataset">GitHub</a></li>
+      <img src="rbf_vary_gamma.png" alt="Radial Basis Function with varying Gamme value on the MNIST dataset" style="max-width: 100%; height: auto;"> 
     </ul>
   </details>
 
 <details>
     <summary>Next challenges</summary>
-    <p>Currently working and also in team collaboration within a couple of research AI fields in preventive healthcare, consumer tech, some bits of mobility and advanced transportation systems like traffic count and classification, amongst others.</p>
+    <p>Currently working and also in team collaboration within a couple of research AI fields in preventive healthcare, consumer tech, some bits of mobility and advanced transportation systems like traffic count and vehicle type classification, interesting stuff basically.</p>
   </details>
 
   <details>
