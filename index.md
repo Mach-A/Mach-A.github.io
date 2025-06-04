@@ -3,18 +3,17 @@
 
 <details>
   <summary><strong>Home</strong></summary>
+
  
-<details>
   <summary><strong>About Me</strong></summary>
   
-<details>
+
   <summary><strong>Projects</strong></summary>
 
     
-<details>
   <summary><strong>Next Challenges</strong></summary>
+
   
-<details>
   <summary><strong>Howdy</strong></summary>
 
 <details>
