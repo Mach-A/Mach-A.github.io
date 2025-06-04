@@ -80,7 +80,7 @@
       <img src="asset/bert_model.png" alt="Bert Model with F1 score and Accuracy" style="max-width: 100%; height: auto;"> 
       <img src="asset/bert_f1_acc.png" alt="Bert Model with only F1 score<<macro/micro" style="max-width: 100%; height: auto;"> 
       <li><strong>Implementing regression models using the classicial MNIST dataset</strong>: The regression models, binary logistic regression and multi-logistic regression models were implemented using no inbuilt functions/external libraries <a href="https://github.com/Mach-A/mlr_blr_svm_using_mnist_dataset">GitHub</a></li>
-      <img src="rbf_vary_gamma.png" alt="Radial Basis Function with varying Gamme value on the MNIST dataset" style="max-width: 100%; height: auto;"> 
+      <img src="asset/rbf_vary_gamma.png" alt="Radial Basis Function with varying Gamme value on the MNIST dataset" style="max-width: 100%; height: auto;"> 
     </ul>
   </details>
 
