@@ -1,5 +1,5 @@
 
-## This easily explains the github projects
+## This easily some of my projects
 
 ## Projects
 
