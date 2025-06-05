@@ -62,7 +62,7 @@
 
   <details open>
     <summary>Home</summary>
-    <p>Welcome to my personal projects. These are bunch of some stuff worked on and things being worked on, tons of stuff yet to be done tho</p>
+    <p>Welcome to my personal projects. These are a couple of stuff worked on and some mention of things being worked on, tons of stuff yet to be done tho</p>
   </details>
 
   <details>
